@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Documents\\00\\ASP.NET-MVC\\ASP.NET-MVC.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\Nova pasta (2)\\ASP.NET-MVC\\ASP.NET-MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Documents\\00\\ASP.NET-MVC\\ASP.NET-MVC.csproj": {
+    "C:\\Users\\Alunos\\Documents\\Nova pasta (2)\\ASP.NET-MVC\\ASP.NET-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\00\\ASP.NET-MVC\\ASP.NET-MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\Nova pasta (2)\\ASP.NET-MVC\\ASP.NET-MVC.csproj",
         "projectName": "ASP.NET-MVC",
-        "projectPath": "C:\\Users\\Alunos\\Documents\\00\\ASP.NET-MVC\\ASP.NET-MVC.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\Nova pasta (2)\\ASP.NET-MVC\\ASP.NET-MVC.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Documents\\00\\ASP.NET-MVC\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\Nova pasta (2)\\ASP.NET-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
