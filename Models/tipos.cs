@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 namespace app_tarefas.Models;
 
-public class Tipo
+public class Tipos
 {
     [Key]
     public int Id { get; set; }
